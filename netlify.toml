@@ -19,7 +19,7 @@ SITE_TITLE = "אוי, לא"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://dreamy-malasada-e503e3.netlify.app/"
+SITE_URL = "https://vault1.oylo.org/"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
