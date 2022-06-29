@@ -1,49 +1,33 @@
 {
   "main": {
-    "id": "a2b79bef8dee9e3b",
+    "id": "e13bf9c328157598",
     "type": "split",
     "children": [
       {
-        "id": "12d82edc85523047",
-        "type": "split",
-        "children": [
-          {
-            "id": "bd31f49742a3a975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training/Instructionals/Stephen Whitier.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6406daf6618a293e",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "340d694ffedefbde",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Plan.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f45346d3a0c0ff29",
+    "id": "7bfc471269f304af",
     "type": "split",
     "children": [
       {
-        "id": "0d2e66ee6032c9c7",
+        "id": "31f6c6a4cbe88aa9",
         "type": "tabs",
         "children": [
           {
-            "id": "e444111a82a8cedf",
+            "id": "558334e12c3fca28",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +35,7 @@
             }
           },
           {
-            "id": "d8adc9c190593e6d",
+            "id": "dba47fb56531b264",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "abc51808fdb3e9e1",
+    "id": "4b41fb48fa1cc7ee",
     "type": "split",
     "children": [
       {
-        "id": "9d80191b29b26e16",
+        "id": "4b0f487bff7f0a0d",
         "type": "tabs",
         "children": [
           {
-            "id": "5eede0515e950bc1",
+            "id": "b3ed4456c617031c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Instructionals/Stephen Whitier.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,14 +79,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "2553bc3003d99487",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       }
@@ -111,12 +87,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd31f49742a3a975",
+  "active": "340d694ffedefbde",
   "lastOpenFiles": [
-    "Training/Instructionals/Stephen Whitier.md",
-    "home.md",
-    "Untitled.md",
-    "ss.md",
-    "Testt.md"
+    "Plan.md"
   ]
 }

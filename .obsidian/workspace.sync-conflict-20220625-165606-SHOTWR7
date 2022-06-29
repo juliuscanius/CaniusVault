@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "e13bf9c328157598",
+    "type": "split",
+    "children": [
+      {
+        "id": "340d694ffedefbde",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Book List.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d804ca5df96881f1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Training/Log.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a933ef1cdd73f5cc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1647074651ae3f6f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "0797736ecdcf9fa2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "54179a4359cd5905",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e92590e2eb56217e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Book List.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a987c12301b625cb",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "340d694ffedefbde",
+  "lastOpenFiles": [
+    "Book List.md",
+    "Training/Log.md",
+    "IMG_20220623_221513.jpg",
+    "Tasks.md",
+    "Schedule & Notes.md",
+    "Books.md",
+    "Travel.md",
+    "Plan.md",
+    "Thoughts.md",
+    "Timeline.md"
+  ]
+}

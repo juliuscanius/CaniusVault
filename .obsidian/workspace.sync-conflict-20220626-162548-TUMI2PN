@@ -1,49 +1,34 @@
 {
   "main": {
-    "id": "a2b79bef8dee9e3b",
+    "id": "e13bf9c328157598",
     "type": "split",
     "children": [
       {
-        "id": "12d82edc85523047",
-        "type": "split",
-        "children": [
-          {
-            "id": "bd31f49742a3a975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training/Instructionals/Stephen Whitier.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6406daf6618a293e",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "b022baf4216e16e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rules.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f45346d3a0c0ff29",
+    "id": "afc240cafbec7ca0",
     "type": "split",
     "children": [
       {
-        "id": "0d2e66ee6032c9c7",
+        "id": "42c847ab45fd24e2",
         "type": "tabs",
         "children": [
           {
-            "id": "e444111a82a8cedf",
+            "id": "a8be6d18b37d97a0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +36,7 @@
             }
           },
           {
-            "id": "d8adc9c190593e6d",
+            "id": "b9cb7ec056641ceb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,23 +54,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253
   },
   "right": {
-    "id": "abc51808fdb3e9e1",
+    "id": "f8dbab1f058c97fa",
     "type": "split",
     "children": [
       {
-        "id": "9d80191b29b26e16",
+        "id": "a0b7e5d3753d2963",
         "type": "tabs",
         "children": [
           {
-            "id": "5eede0515e950bc1",
+            "id": "a42edf5c8a4772c8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7dcbb34ff9360fd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Instructionals/Stephen Whitier.md",
+                "file": "Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,28 +88,26 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "2553bc3003d99487",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "bd31f49742a3a975",
+  "active": "b022baf4216e16e3",
   "lastOpenFiles": [
-    "Training/Instructionals/Stephen Whitier.md",
-    "home.md",
-    "Untitled.md",
-    "ss.md",
-    "Testt.md"
+    "Rules.md",
+    "Evernote/Lifting/Deadlift.md",
+    "Evernote/Archive/Flat parameters.md",
+    "Evernote/Archive/Copy of Reading List.md",
+    "Evernote/Archive/Bike maintenance.md",
+    "Evernote/Archive/A Complete Guide to Cauliflower Ear and Self-Treatment.md",
+    "Tasks.md",
+    "Excalidraw/Drawing 2022-06-25 23.43.01.excalidraw.md",
+    "South America Summer 2022.md",
+    "Travel.md"
   ]
 }

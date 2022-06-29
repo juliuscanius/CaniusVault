@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "e13bf9c328157598",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5a62d657f6315bf",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Working Directory/Tasks.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a6617a26c932196",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "92bc41d81103b526",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "74b70339a7c4ca31",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8a353c4bb39f9469",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cd65c5ee394d5ee6",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "2a97069e2d39363f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Working Directory/Tasks.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a5a62d657f6315bf",
+  "lastOpenFiles": [
+    "Working Directory/Tasks.md",
+    "Working Directory/Books.md",
+    "Working Directory/Plan.md",
+    "Ideas.md",
+    "Working Directory/Notes.md",
+    "Working Directory/Instructionals.md",
+    "uB.md",
+    "University/Seminar.md",
+    "home.md",
+    "Excalidraw/1.md"
+  ]
+}
